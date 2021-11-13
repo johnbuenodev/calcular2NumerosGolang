@@ -1,0 +1,14 @@
+
+
+go version
+
+go run name.go
+
+go mod init primeiroProjetoGo
+
+
+FUNÇÕES QUANDO FOREM SER UTILIZADAS FORA DO PACOTE 
+AO QUAL FORAM CRIADOS ADD LETRA MAIUSCULA NO INICIO DO NOME DA FUNÇÃO
+
+EXEMPLO:  Calculadora()
+
